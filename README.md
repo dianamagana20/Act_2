@@ -1,2 +1,2 @@
-# Act_2
+# Remoto
 Repositorio remoto
